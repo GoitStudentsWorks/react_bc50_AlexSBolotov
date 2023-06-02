@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlexSBolotov.github.io/react-bc50-1-budget-boss/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_bc50_AlexSBolotov/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
